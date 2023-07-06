@@ -1,0 +1,7 @@
+appId: com.ikemura23.maestrosample
+---
+- launchApp:
+    clearState: true
+
+- assertVisible:
+    text: "Hello Android!"
